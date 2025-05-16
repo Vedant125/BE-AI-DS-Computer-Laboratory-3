@@ -30,3 +30,8 @@ Description: Two MapReduce programs:
 
 10. Ant Colony Optimization for Traveling Salesman Problem
   Description: Implements Ant Colony Optimization to solve the Traveling Salesman Problem, finding the shortest route visiting all cities exactly once and returning to the start.
+
+Author
+Vedant Sonawane
+
+
